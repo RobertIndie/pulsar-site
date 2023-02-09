@@ -54,7 +54,7 @@ pulsar+ssl://pulsar.us-west.example.com:6651
 
 ## Release notes
 
-For the changelog of Pulsar Node.js clients, see [release notes](/release-notes/#nodejs).
+For the changelog of Pulsar Node.js clients, see [release notes](/release-notes/client-node/).
 
 ## Create a client
 
